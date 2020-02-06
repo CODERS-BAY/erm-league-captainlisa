@@ -5,3 +5,6 @@ erm-league-captainlisa
 ![textual presentation](textualpresentation.jpeg)
 
 ## the groups work
+
+![er-model teamwork](erm_group.jpeg)
+![textual presentation teamwork](text_group.jpeg)
