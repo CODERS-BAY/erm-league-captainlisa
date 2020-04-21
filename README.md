@@ -23,3 +23,7 @@ erm-league-captainlisa
 * Stadium (**stadium_ID:int**, *match_schedule_ID:int*, designation:varchar(20), street:varchar(32), zip:int, city:varchar(20), capacity:int)
 * League (**league_ID:int**, *leaguelist_ID:int*, designation:varchar(32), area:varchar(20), league_level:int)
 * Leaguelist (**leaguelist_ID:int**, league_ID:int, club_ID:int)
+
+## Soccer League Schema
+
+![Soccer League](soccerLeague_schema.jpg)
